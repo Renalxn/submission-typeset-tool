@@ -1,2 +1,0 @@
-这是我的命令行练习 
-this is my second command line exercise.
